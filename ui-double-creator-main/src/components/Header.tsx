@@ -13,7 +13,7 @@ const Header = () => {
               <div className="w-8 h-8 bg-gradient-hero rounded-full flex items-center justify-center">
                 <span className="text-white font-bold text-sm">T</span>
               </div>
-              <span className="text-xl font-bold text-gray-900">Teen Patti Master</span>
+              <span className="text-xl font-bold text-gray-900">Yono Rummy & Teen Patti</span>
             </div>
           </div>
 
@@ -25,7 +25,7 @@ const Header = () => {
               </div>
               <Input
                 type="text"
-                placeholder="Search Teen Patti Master games..."
+                placeholder="Search Yono Rummy, Teen Patti, Casino Games..."
                 className="pl-10 pr-4 py-2 w-full border-gray-300 rounded-lg focus:ring-2 focus:ring-gaming-red focus:border-transparent"
               />
             </div>
@@ -34,16 +34,16 @@ const Header = () => {
           {/* Navigation */}
           <nav className="flex items-center space-x-6">
             <a href="#" className="text-gray-700 hover:text-gaming-red font-medium transition-colors">
-              Teen Patti Games
+              Rummy Apps 51 Bonus
             </a>
             <a href="#" className="text-gray-700 hover:text-gaming-red font-medium transition-colors">
-              Tournaments
+              Casino Slots Games
             </a>
             <a href="#" className="text-gray-700 hover:text-gaming-red font-medium transition-colors">
-              Unlimited Chips
+              Real Cash Withdrawal
             </a>
             <Button variant="gaming-primary" size="lg">
-              Play Free
+              Play Yono Rummy Free
             </Button>
           </nav>
         </div>

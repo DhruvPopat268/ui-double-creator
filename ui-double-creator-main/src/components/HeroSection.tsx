@@ -18,26 +18,26 @@ const HeroSection = () => {
 
       <div className="relative max-w-4xl mx-auto text-center">
         <h1 className="text-5xl md:text-6xl font-bold text-white mb-6">
-          Teen Patti Master - Play Free Online
+          Teen Patti Master, Yono Rummy & 3 Patti Gold - Top Casino Games
         </h1>
         
         <p className="text-xl text-white/90 mb-8 leading-relaxed">
-          Download Teen Patti Master Mod APK with Unlimited Chips! Play India's #1 Card Game with Real Players Worldwide
+          Play Teen Patti Master, Yono Rummy, 3 Patti Gold free online! Download best rummy apps with 51 bonus, winning casino slots, real cash games & instant withdrawal
         </p>
 
         <p className="text-lg text-white/80 mb-10 max-w-3xl mx-auto">
-          Experience the ultimate Teen Patti Master game - No download required for instant play. Get unlimited chips, join tournaments, and become the Teen Patti Master champion!
+          Experience top rummy games, casino slots, online casino games in India. Get Holy Rummy, Gold Rummy, Rummy Nabob with unlimited chips, 41 bonus, real money withdrawal. Play casino bonuses, new slot games, best online casino - all trusted rummy apps!
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
           <Button variant="hero" size="lg" className="text-lg px-8 py-4">
             <Play className="w-5 h-5 mr-2" />
-            Play Teen Patti Master Free
+            Play Yono Rummy & Teen Patti Free
           </Button>
           <Button variant="gaming-gold" size="lg" className="text-lg px-8 py-4" asChild>
             <a href="https://hh7.pw/aw/s2rq3h" target="_blank" rel="noopener noreferrer">
               <Download className="w-5 h-5 mr-2" />
-              Download Mod APK
+              Download Rummy 51 Bonus APK
             </a>
           </Button>
         </div>

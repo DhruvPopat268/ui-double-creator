@@ -4,22 +4,22 @@ const FeatureBenefits = () => {
   const features = [
     {
       icon: Crown,
-      title: "Premium Experience",
-      description: "Enjoy Teen Patti Master with premium graphics, smooth gameplay, and authentic casino experience",
+      title: "Premium Rummy Experience",
+      description: "Enjoy Yono Rummy, Holy Rummy, Gold Rummy with premium graphics, smooth gameplay, and authentic casino experience. Top rummy game with 51 bonus.",
       bgColor: "bg-red-50",
       iconColor: "text-gaming-red"
     },
     {
       icon: Zap,
-      title: "Unlimited Resources",
-      description: "Get unlimited chips, coins, and premium features in Teen Patti Master mod version",
+      title: "Unlimited Resources & Bonuses",
+      description: "Get unlimited chips, 41 bonus, 100 bonus in rummy apps. Play casino slots, online casino games with instant withdrawal and real cash game benefits.",
       bgColor: "bg-orange-50",
       iconColor: "text-gaming-orange"
     },
     {
       icon: Users,
-      title: "Global Community",
-      description: "Connect with millions of Teen Patti Master players worldwide in real-time multiplayer games",
+      title: "Global Gaming Community",
+      description: "Connect with millions of players worldwide in real-time. Play 3 Patti Gold, casino bonuses, winning casino slots with trusted rummy apps in India.",
       bgColor: "bg-green-50",
       iconColor: "text-green-600"
     }
@@ -30,8 +30,11 @@ const FeatureBenefits = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold text-gray-900 mb-4">
-            Teen Patti Master Game Features & Benefits
+            Yono Rummy, Teen Patti & Casino Games - Features & Benefits
           </h2>
+          <p className="text-lg text-gray-600 max-w-3xl mx-auto">
+            Experience the best online casino games, top rummy apps with 51 bonus, winning casino slots, and real cash withdrawal games. Play trusted rummy apps in India with instant withdrawal features.
+          </p>
         </div>
 
         <div className="grid md:grid-cols-3 gap-8">
